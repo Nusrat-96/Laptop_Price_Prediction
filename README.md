@@ -40,4 +40,3 @@ A uncleared "Laptop Price Prediction" was collected from Kaggle.
 - **OpSys**
 - **Weight_in_Kg**
 - **Price (INR): the retail price of the laptop in Indian Rupees**
-
