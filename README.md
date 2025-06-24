@@ -2,6 +2,7 @@
 
 ## Dataset: 
 A uncleared "Laptop Price Prediction" was collected from Kaggle.
+[Uncleared Laptop Price Data](https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset/)
 
 ### Features of the Dataset
 - **Company: the manufacturer of the laptop**
